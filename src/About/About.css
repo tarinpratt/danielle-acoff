@@ -1,0 +1,39 @@
+.danielle {
+    /* height: 100vh;
+    background-image: linear-gradient(to right,rgba(255, 214, 153, 0.1),rgba(121, 76, 0.1, 0.6));
+    background-size: cover;  */
+}
+
+nav {
+    height: 20px;
+}
+
+.about-danielle {
+    width: 100%;
+    padding-top: 5px;
+    text-align: left;
+    display: flex;
+    flex-direction: row;
+}
+
+
+.bg-vid {
+    margin-left: 50px;
+    width: 50%;
+    /* padding: 20px; */
+    transform: skewX(-5deg);
+    
+}
+.text-about {
+    font-size: 14px;
+    width: 50%;
+    padding-right: 20px;
+    background-color: rgba(175, 174, 174, 0.4);
+    padding: 20px;
+    transform: skewX(-5deg);
+    position: relative;
+}
+
+
+
+
